@@ -415,7 +415,7 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     <div class="team-card">
       <img src="WhatsApp Image 2026-01-07 at 12.25.33 AM.jpeg" alt="Co-Founder">
       <h4>Adheesha Bandara</h4>
-      <span>Senior Consultant</span>
+      <span>Co-Founder</span>
     </div>
 
    
