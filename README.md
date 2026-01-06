@@ -293,7 +293,7 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     </p>
 
     <div class="footer-details">
-      <p><strong>Co-Founder:</strong> Your Name</p>
+      <p><strong>Co-Founder:</strong> Dhananjaya Thennakoon</p>
       <p><strong>Team:</strong> Web Developers · UI/UX Designers · AI Engineers</p>
     </div>
 
