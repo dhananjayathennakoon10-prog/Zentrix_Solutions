@@ -409,7 +409,7 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     <div class="team-card">
       <img src="WhatsApp Image 2026-01-07 at 12.30.37 AM.jpeg">
       <h4>Dhananjaya Thennakoon</h4>
-      <span>Co-Founder</span>
+      <span>Founder</span>
     </div>
 
     <div class="team-card">
