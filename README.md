@@ -190,7 +190,6 @@ footer{text-align:center;padding:40px;color:#64748b;}
   <nav>
     <a href="#about">About</a>
     <a href="#services">Services</a>
-    <a href="previos works.html">Previous Works</a>
     <a href="#contact">Contact</a>
   </nav>
 
@@ -206,6 +205,7 @@ footer{text-align:center;padding:40px;color:#64748b;}
   <h1>Modern Web Development</h1>
   <p>Clean, glassy & animated websites</p>
   <a href="#contact" class="btn">Get Started</a>
+  <a href="previos works.html">Previous Works</a>
 </section>
 
 <section id="about">
