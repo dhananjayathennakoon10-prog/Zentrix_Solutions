@@ -407,13 +407,13 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
   <div class="team-grid">
 
     <div class="team-card">
-      <img src="team1.jpg" alt="Co-Founder">
+      <img src="WhatsApp Image 2026-01-07 at 12.30.37 AM.jpeg">
       <h4>Dhananjaya Thennakoon</h4>
       <span>Co-Founder</span>
     </div>
 
     <div class="team-card">
-      <img src="team2.jpg" alt="Co-Founder">
+      <img src="WhatsApp Image 2026-01-07 at 12.25.33 AM.jpeg" alt="Co-Founder">
       <h4>Adheesha Bandara</h4>
       <span>Senior Consultant</span>
     </div>
@@ -425,16 +425,7 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
   </div>
 </section>
 
-<!-- FOOTER -->
-<footer class="site-footer">
-  <div class="footer-content">
-    <h3>ZENTRIX SOLUTIONS</h3>
-    <p>
-      AI Solutions • Web Development • Modern UI Engineering
-    </p>
-    <span>© 2026 Zentrix Solutions. All Rights Reserved.</span>
-  </div>
-</footer>
+
 
 
 <footer class="site-footer">
