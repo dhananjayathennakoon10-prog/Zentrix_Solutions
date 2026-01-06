@@ -220,6 +220,119 @@ body.dark .site-footer{
   }
 }
 
+  /* ================= TEAM SECTION ================= */
+.team-section{
+  max-width:1100px;
+  margin:140px auto 80px;
+  padding:70px 30px;
+  background:rgba(255,255,255,.45);
+  backdrop-filter:blur(14px);
+  border-radius:30px;
+  border:1px solid rgba(255,255,255,.35);
+  text-align:center;
+}
+
+body.dark .team-section{
+  background:rgba(2,6,23,.6);
+}
+
+.team-title{
+  font-size:36px;
+  margin-bottom:12px;
+}
+
+.team-sub{
+  font-size:16px;
+  color:#64748b;
+  max-width:650px;
+  margin:0 auto 50px;
+}
+
+/* GRID */
+.team-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+  gap:35px;
+}
+
+/* CARD */
+.team-card{
+  padding:25px 15px;
+  border-radius:22px;
+  background:rgba(255,255,255,.35);
+  backdrop-filter:blur(12px);
+  transition:.35s;
+}
+
+body.dark .team-card{
+  background:rgba(2,6,23,.55);
+}
+
+.team-card:hover{
+  transform:translateY(-12px);
+  box-shadow:0 18px 40px rgba(56,189,248,.35);
+}
+
+/* IMAGE */
+.team-card img{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+  border-radius:50%;
+  margin-bottom:15px;
+  border:4px solid #38bdf8;
+}
+
+/* TEXT */
+.team-card h4{
+  font-size:16px;
+  margin-bottom:6px;
+}
+
+.team-card span{
+  font-size:13px;
+  color:#64748b;
+}
+
+/* ================= FOOTER ================= */
+.site-footer{
+  padding:60px 20px;
+  text-align:center;
+  background:rgba(255,255,255,.35);
+  backdrop-filter:blur(12px);
+  border-top:1px solid rgba(255,255,255,.3);
+}
+
+body.dark .site-footer{
+  background:rgba(2,6,23,.65);
+}
+
+.footer-content h3{
+  font-size:22px;
+  margin-bottom:10px;
+}
+
+.footer-content p{
+  font-size:14px;
+  color:#64748b;
+  margin-bottom:10px;
+}
+
+.footer-content span{
+  font-size:13px;
+  color:#64748b;
+}
+
+/* ================= MOBILE FIX ================= */
+@media(max-width:768px){
+  .team-title{font-size:28px;}
+  .team-card img{
+    width:95px;
+    height:95px;
+  }
+}
+
+
 </style>
 </head>
 
@@ -248,8 +361,8 @@ body.dark .site-footer{
 
 
 <section class="hero show">
-  <h1>Modern Web Development</h1>
-  <p>Clean, glassy & animated websites</p>
+  <h1>Your Digital Growth Partner</h1>
+  <p></p>
   <a href="#contact" class="btn">Get Started</a>
   <a href="previos works.html" class="btn">Previous Works</a>
 </section>
@@ -281,6 +394,56 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     <button>Send via WhatsApp</button>
   </form>
 </section>
+
+
+<!-- TEAM SECTION -->
+<section class="team-section show">
+  <h2 class="team-title">The Team Behind the Innovation</h2>
+  <p class="team-sub">
+    We are a hands-on team of designers, developers, and AI engineers
+    building modern digital solutions.
+  </p>
+
+  <div class="team-grid">
+
+    <div class="team-card">
+      <img src="team1.jpg" alt="Co-Founder">
+      <h4>Dilshan Abeygunawardhana</h4>
+      <span>Co-Founder</span>
+    </div>
+
+    <div class="team-card">
+      <img src="team2.jpg" alt="Co-Founder">
+      <h4>Dileepa Jayawardena</h4>
+      <span>Co-Founder</span>
+    </div>
+
+    <div class="team-card">
+      <img src="team3.jpg" alt="Senior Consultant">
+      <h4>Kosala Jayasekara</h4>
+      <span>Senior Consultant</span>
+    </div>
+
+    <div class="team-card">
+      <img src="team4.jpg" alt="Senior Consultant">
+      <h4>Malinda Alahakoon</h4>
+      <span>Senior Consultant</span>
+    </div>
+
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-content">
+    <h3>ZENTRIX SOLUTIONS</h3>
+    <p>
+      AI Solutions • Web Development • Modern UI Engineering
+    </p>
+    <span>© 2026 Zentrix Solutions. All Rights Reserved.</span>
+  </div>
+</footer>
+
 
 <footer class="site-footer">
   <div class="footer-content">
