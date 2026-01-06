@@ -171,6 +171,41 @@ footer{text-align:center;padding:40px;color:#64748b}
   nav{display:none}
   h1{font-size:34px}
 }
+
+  /* ================= SECTIONS ================= */
+section{
+  max-width:1000px;
+  margin:160px auto;
+  padding:80px 40px;
+  background:rgba(255,255,255,.45);
+  backdrop-filter:blur(14px);
+  border-radius:28px;
+  border:1px solid rgba(255,255,255,.35);
+  box-shadow:0 20px 45px rgba(0,0,0,.08);
+  text-align:center;
+  opacity:0;
+  transform:translateY(40px);
+  transition:1s;
+}
+section.show{opacity:1;transform:none;}
+body.dark section{background:rgba(2,6,23,.55);}
+
+/* HERO */
+.hero h1{font-size:48px;margin-bottom:15px;}
+.hero p{font-size:18px;color:#64748b;}
+
+/* BUTTON */
+.btn{
+  display:inline-block;margin-top:25px;
+  padding:14px 40px;
+  background:#38bdf8;color:#fff;
+  border-radius:30px;
+  text-decoration:none;font-weight:600;
+  transition:.3s;
+}
+.btn:hover{transform:translateY(-6px);box-shadow:0 16px 40px rgba(56,189,248,.6);}
+
+  
 </style>
 </head>
 
@@ -255,4 +290,5 @@ sections.forEach(s=>obs.observe(s));
 
 </body>
 </html>
+
 
