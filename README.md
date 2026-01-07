@@ -382,23 +382,23 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
   <div class="stats-box">
 
     <div class="stat">
-      <h2 class="count" data-target="3">0</h2>
+      <h2 class="count" data-target="1">0</h2>
       <p>Years of Operation</p>
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="10">0</h2>
+      <h2 class="count" data-target="5">0</h2>
       <p>Worldwide Clients</p>
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="200">0</h2>
+      <h2 class="count" data-target="20">0</h2>
       <p>Successful Projects</p>
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="4">0</h2>
-      <p>Sectors Revolutionized</p>
+      <h2 class="count" data-target="2">0</h2>
+      <p>Developing Team</p>
     </div>
 
   </div>
