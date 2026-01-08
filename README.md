@@ -543,7 +543,12 @@ observer.observe(statsSection);
       <h4>Nishitha Heshara</h4>
       <span>Project Manager</span>
     </div>
-    
+
+    <div class="team-card">
+      <img src="WhatsApp Image 2026-01-08 at 3.24.48 PM.jpeg" alt="Graphic Designer">
+      <h4>Vimukthi Lakruwan</h4>
+      <span>Graphic Designer</span>
+    </div>
 
   </div>
 </section>
