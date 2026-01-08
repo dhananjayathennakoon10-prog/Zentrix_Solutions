@@ -527,7 +527,7 @@ observer.observe(statsSection);
     </div>
 
     <div class="team-card">
-      <img src="WhatsApp Image 2026-01-07 at 12.25.33 AM.jpeg" alt="Co-Founder">
+      <img src="1767770931976.jpg" alt="Co-Founder">
       <h4>Adheesha Bandara</h4>
       <span>Co-Founder</span>
     </div>
@@ -540,7 +540,7 @@ observer.observe(statsSection);
 
   <div class="team-card">
       <img src="WhatsApp Image 2026-01-08 at 2.22.03 PM.jpeg" alt="Project Manager">
-      <h4></h4>
+      <h4>Nishitha Heshara</h4>
       <span>Project Manager</span>
     </div>
     
