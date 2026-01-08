@@ -535,7 +535,7 @@ observer.observe(statsSection);
    <div class="team-card">
       <img src="WhatsApp Image 2026-01-08 at 1.52.27 PM.jpeg" alt="web Designer/App Developer">
       <h4>Oshada Dilshan</h4>
-      <span>web Designer/App Developer</span>
+      <span>Web Designer/App Developer</span>
     </div>
 
     
