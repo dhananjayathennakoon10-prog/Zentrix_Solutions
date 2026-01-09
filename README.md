@@ -513,17 +513,17 @@ observer.observe(statsSection);
   <div class="grid services-grid">
 
     <a href="web-development.html" class="card service-card">
-      <h3>Website Development</h3>
+      <h4>Website Development</h4>
       
     </a>
 
     <a href="landing.html" class="card service-card">
-      <h3>Landing Pages</h3>
+      <h4>Landing Pages</h4>
      
     </a>
 
     <a href="ecommerce.html" class="card service-card">
-      <h3>E-Commerce</h3>
+      <h5>E-Commerce</h4>
       
     </a>
 
@@ -533,12 +533,12 @@ observer.observe(statsSection);
     </a>
 
     <a href="small-business.html" class="card service-card">
-      <h3>Small Business Sites</h3>
+      <h4>Small Business Sites</h4>
       
     </a>
 
     <a href="physical-stores.html" class="card service-card">
-      <h3>Physical Store Sites</h3>
+      <h4>Physical Store Sites</h4>
       
     </a>
 
