@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Landing Pages| Zentrix Solutions</title>
+
+<link rel="icon" type="image/png" href="favicon.png">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ========== RESET ========== */
+*{margin:0;padding:0;box-sizing:border-box;}
+body{
+  font-family:'Poppins',sans-serif;
+  background:#f8fafc;
+  color:#0f172a;
+}
+body.dark{background:#020617;color:#e5e7eb;}
+
+/* ========== HEADER ========== */
+header{
+  position:fixed;
+  top:18px;left:50%;
+  transform:translateX(-50%);
+  width:92%;max-width:1200px;
+  padding:14px 28px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-radius:22px;
+  background:rgba(255,255,255,.45);
+  backdrop-filter:blur(14px);
+  border:1px solid rgba(255,255,255,.35);
+  z-index:1000;
+}
+
+nav a{
+  margin:0 14px;
+  text-decoration:none;
+  color:inherit;
+  font-weight:500;
+}
+
+/* ========== MAIN ========== */
+main{
+  max-width:1100px;
+  margin:160px auto 100px;
+  padding:20px;
+}
+
+h1{
+  font-size:42px;
+  text-align:center;
+  margin-bottom:12px;
+}
+
+.subtitle{
+  text-align:center;
+  color:#64748b;
+  margin-bottom:60px;
+}
+
+/* ========== PROJECT CARD ========== */
+.project-card{
+  margin-bottom:80px;
+  padding:30px;
+  border-radius:28px;
+  background:rgba(255,255,255,.45);
+  backdrop-filter:blur(14px);
+  border:1px solid rgba(255,255,255,.35);
+  box-shadow:0 18px 40px rgba(0,0,0,.08);
+}
+
+.project-card h3{
+  font-size:22px;
+  margin-bottom:10px;
+}
+
+.project-card p{
+  color:#64748b;
+  font-size:15px;
+  margin-bottom:16px;
+}
+
+.project-tags span{
+  display:inline-block;
+  padding:6px 14px;
+  margin:4px 4px 0 0;
+  font-size:12px;
+  border-radius:20px;
+  background:#38bdf8;
+  color:#fff;
+}
+
+/* BIG IMAGE */
+.project-big{
+  width:100%;
+  margin-top:26px;
+  border-radius:22px;
+  box-shadow:0 20px 45px rgba(0,0,0,.15);
+}
+
+/* ========== RESPONSIVE ========== */
+@media(max-width:1024px){
+  h1{font-size:36px;}
+}
+
+@media(max-width:768px){
+  header{
+    padding:12px 18px;
+  }
+  h1{font-size:30px;}
+  .project-card{
+    padding:22px;
+  }
+}
+
+@media(max-width:480px){
+  h1{font-size:26px;}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <strong>ZENTRIX</strong>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="index.html#contact">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Landing Pages</h1>
+  <p class="subtitle">
+    A showcase of modern websites and digital solutions we’ve built for our clients.
+  </p>
+
+  <!-- PROJECT 1 -->
+  <div class="project-card">
+    <h3>Business Website</h3>
+    <p>Modern responsive website designed for a growing company.</p>
+    <div class="project-tags">
+      <span>HTML</span>
+      <span>CSS</span>
+      <span>JavaScript</span>
+    </div>
+    <img class="project-big" src="project1.jpg" alt="Business Website Full View">
+  </div>
+
+  <!-- PROJECT 2 -->
+  <div class="project-card">
+    <h3>Landing Page</h3>
+    <p>High-conversion landing page optimized for marketing campaigns.</p>
+    <div class="project-tags">
+      <span>UI/UX</span>
+      <span>Responsive</span>
+    </div>
+    <img class="project-big" src="project2.jpg" alt="Landing Page Full View">
+  </div>
+
+  <!-- PROJECT 3 -->
+  <div class="project-card">
+    <h3>E-Commerce Store</h3>
+    <p>Fast and secure online store with clean modern design.</p>
+    <div class="project-tags">
+      <span>E-Commerce</span>
+      <span>Payments</span>
+    </div>
+    <img class="project-big" src="project3.jpg" alt="E-Commerce Website Full View">
+  </div>
+
+</main>
+
+</body>
+</html>
