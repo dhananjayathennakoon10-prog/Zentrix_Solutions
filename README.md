@@ -514,32 +514,32 @@ observer.observe(statsSection);
 
     <a href="web-development.html" class="card service-card">
       <h3>Website Development</h3>
-      <p>Custom modern websites built for performance.</p>
+      
     </a>
 
-    <a href="landing-pages.html" class="card service-card">
+    <a href="landing.html" class="card service-card">
       <h3>Landing Pages</h3>
-      <p>High-conversion pages designed to get results.</p>
+     
     </a>
 
     <a href="ecommerce.html" class="card service-card">
       <h3>E-Commerce</h3>
-      <p>Secure and scalable online stores.</p>
+      
     </a>
 
     <a href="redesign.html" class="card service-card">
       <h3>Website Redesign</h3>
-      <p>Modern redesigns for outdated websites.</p>
+      
     </a>
 
     <a href="small-business.html" class="card service-card">
       <h3>Small Business Sites</h3>
-      <p>Affordable solutions for startups and local brands.</p>
+      
     </a>
 
     <a href="physical-stores.html" class="card service-card">
       <h3>Physical Store Sites</h3>
-      <p>Websites for shops, restaurants, and stores.</p>
+      
     </a>
 
   </div>
