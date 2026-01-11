@@ -411,7 +411,7 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="6">0</h2>
+      <h2 class="count" data-target="5">0</h2>
       <p>Developing Team</p>
     </div>
 
@@ -578,11 +578,7 @@ observer.observe(statsSection);
       <span>Senior Consultant</span>
     </div>
 
-   <div class="team-card">
-      <img src="WhatsApp Image 2026-01-08 at 3.50.46 PM.jpeg" alt="Web Developer"> 
-      <h4>Dishen Anjana</h4>
-      <span>Web Developer</span>
-    </div>
+
 
   <div class="team-card">
       <img src="WhatsApp Image 2026-01-08 at 2.22.03 PM.jpeg" alt="Project Manager">
