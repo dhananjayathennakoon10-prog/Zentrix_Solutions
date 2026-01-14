@@ -522,7 +522,7 @@ observer.observe(statsSection);
      
     </a>
 
-    <a href="ecommerce.html" class="card service-card">
+    <a href="loging.html" class="card service-card">
       <h4>E-Commerce</h4>
       
     </a>
