@@ -407,7 +407,7 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="20">0</h2>
+      <h2 class="count" data-target="22">0</h2>
       <p>Successful Projects</p>
     </div>
 
