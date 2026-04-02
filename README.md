@@ -6,7 +6,7 @@
 
 <link rel="icon" type="image/png" href="abstract-logo-icon-design-template-elements-with-letter-z-free-vector (1).jpg">
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet"> 
 
 <style>
 /* ================= RESET ================= */
@@ -407,12 +407,12 @@ At Zentrix Solutions, our goal is to deliver high-quality solutions, strong perf
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="22">0</h2>
+      <h2 class="count" data-target="23">0</h2>
       <p>Successful Projects</p>
     </div>
 
     <div class="stat">
-      <h2 class="count" data-target="5">0</h2>
+      <h2 class="count" data-target="6">0</h2>
       <p>Developing Team</p>
     </div>
 
